@@ -40,7 +40,7 @@ const RegistrationForm = () => {
         }
       );
 
-      const data = await response.json();
+      await response.json();
 
 navigate("/registration-success", {
   state: {
