@@ -11,6 +11,10 @@ const AnnouncementBar = () => {
         🤝 Connect with students, mentors, and industry experts &nbsp;&nbsp;&nbsp;
         📅 Stay tuned for newly added events and opportunities &nbsp;&nbsp;&nbsp;
         🎉 Join, Learn, Compete, and Celebrate at Aditya Events Portal &nbsp;&nbsp;&nbsp;
+        🌟 Discover exciting opportunities through campus events and competitions &nbsp;&nbsp;&nbsp;
+        🎓 Build your skills, confidence, and network through active participation &nbsp;&nbsp;&nbsp;
+        💻 Participate in coding contests, hackathons, and technical workshops &nbsp;&nbsp;&nbsp;
+        🎤 Showcase your talent in singing, dancing, music, and cultural events &nbsp;&nbsp;&nbsp;
       </div>
     </div>
   );
