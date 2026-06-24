@@ -4,7 +4,7 @@ const AdminEvents = () => {
   const [events, setEvents] = useState([]);
     const navigate = useNavigate();
   useEffect(() => {
-    fetch("http://localhost:5000/api/events")
+    fetch("https://aditya-events-portal.onrender.com/api/events")
       .then((res) => res.json())
       .then((data) => setEvents(data))
       .catch((err) => console.log(err));
@@ -19,7 +19,7 @@ const AdminEvents = () => {
 
     try {
       await fetch(
-        `http://localhost:5000/api/events/${id}`,
+        `https://aditya-events-portal.onrender.com/api/events/${id}`,
         {
           method: "DELETE",
         }

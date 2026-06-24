@@ -30,7 +30,7 @@ const RegistrationForm = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/register",
+        "https://aditya-events-portal.onrender.com/api/register",
         {
           method: "POST",
           headers: {

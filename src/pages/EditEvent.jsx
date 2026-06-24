@@ -21,7 +21,7 @@ const [eventData, setEventData] = useState({
 });
 
 useEffect(() => {
-fetch("http://localhost:5000/api/events")
+fetch("https://aditya-events-portal.onrender.com/api/events")
 .then((res) => res.json())
 .then((data) => {
 const event = data.find(
@@ -58,7 +58,7 @@ e.preventDefault();
 
 try {
   const response = await fetch(
-    `http://localhost:5000/api/events/${id}`,
+    `https://aditya-events-portal.onrender.com/api/events/${id}`,
     {
       method: "PUT",
       headers: {

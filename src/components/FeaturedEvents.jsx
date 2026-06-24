@@ -53,7 +53,7 @@ const FeaturedEvents = () => {
   ];
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/events")
+    fetch("https://aditya-events-portal.onrender.com/api/events")
       .then((res) => res.json())
       .then((data) => {
         const formattedEvents = data.map((event) => ({

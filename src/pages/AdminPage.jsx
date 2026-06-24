@@ -30,7 +30,7 @@ const filteredRegistrations = registrations.filter((student) => {
 });
 
 useEffect(() => {
-fetch("http://localhost:5000/api/registrations")
+fetch("https://aditya-events-portal.onrender.com/api/registrations")
 .then((res) => res.json())
 .then((data) => setRegistrations(data))
 .catch((err) => console.log(err));
@@ -74,7 +74,7 @@ const deleteRegistration = async (id) => {
 
   try {
     await fetch(
-      `http://localhost:5000/api/registrations/${id}`,
+      `https://aditya-events-portal.onrender.com/api/registrations/${id}`,
       {
         method: "DELETE",
       }

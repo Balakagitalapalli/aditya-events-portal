@@ -42,7 +42,7 @@ const payload = {
 
 try {
   const response = await fetch(
-    "http://localhost:5000/api/events",
+    "https://aditya-events-portal.onrender.com/api/events",
     {
       method: "POST",
       headers: {
