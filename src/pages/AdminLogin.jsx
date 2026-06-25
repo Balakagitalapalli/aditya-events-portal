@@ -11,7 +11,7 @@ const AdminLogin = () => {
     e.preventDefault();
 
     if (
-      username === "Bala" &&
+      username === "Balu" &&
       password === "Bala@1290"
     ) {
       localStorage.setItem(
