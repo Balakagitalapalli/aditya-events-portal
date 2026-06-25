@@ -4,18 +4,22 @@
 
 @keyframes marquee {
   from {
-    transform: translateX(0%);
+    transform: translateX(0);
   }
 
   to {
-    transform: translateX(-50%);
+    transform: translateX(-33.333%);
   }
 }
 
 .animate-marquee {
   display: flex;
   width: max-content;
-  animation: marquee 25s linear infinite;
+  animation: marquee 35s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
 }
 
 ::-webkit-scrollbar {
