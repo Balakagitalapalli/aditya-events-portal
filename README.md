@@ -1,4 +1,4 @@
-<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/fc1e6f2e-81f8-4d41-8830-cd556de8e8bc" /># 🎉 Aditya Events Portal
+# 🎉 Aditya Events Portal
 
 A modern **Full Stack Event Management Portal** developed using the **MERN Stack**. This platform allows students to explore campus events, register online, and enables administrators to manage events and registrations efficiently through a centralized dashboard.
 
@@ -132,12 +132,18 @@ Administrators can manage events, monitor registrations, download participant da
 
 ### Event Management
 
-<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/b2c2b158-28c5-4f06-b966-45343616011c" />
-<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/a9244f46-059e-49fa-a139-9162db76687c" />
-<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/76e48c5b-d124-4814-b14f-01a3221faafc" />
-<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/425ca395-777e-48dd-ba8d-5e026d7dc7af" />
-<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/d720218f-a5cc-413e-b16b-b05f6ea234c5" />
+<img width="1918" height="857" alt="image" src="https://github.com/user-attachments/assets/7db08bd2-9108-411d-836e-1b27169412f8" />
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/51135512-ffe8-49f1-8035-70d5156c7ca0" />
+<img width="1913" height="870" alt="image" src="https://github.com/user-attachments/assets/5211e32e-c7fc-48eb-9a8e-95f7c21c949f" />
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/3946d69a-7eaa-4413-8f80-71611ec54fb2" />
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/3c4a3dbb-170f-4d76-b6cd-ca24e4a4b8a9" />
 
+---
+
+### Gallery Section
+
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/69577acc-0784-4aa7-8ad6-2bec47aebd1f" />
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/5c67adb2-fbf6-4bdc-a8af-265e8f7a42f7" />
 
 
 ---
