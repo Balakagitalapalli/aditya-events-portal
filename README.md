@@ -1,74 +1,198 @@
-# Getting Started with Create React App
+# 🎉 Aditya Events Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern **Full Stack Event Management Portal** developed using the **MERN Stack**. This platform allows students to explore campus events, register online, and enables administrators to manage events and registrations efficiently through a centralized dashboard.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+🔗 **Frontend:** https://aditya-events.vercel.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔗 **Backend API:** https://aditya-events-portal.onrender.com
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# 📌 Project Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The **Aditya Events Portal** is designed to simplify the management of university events by providing a single platform where students can:
 
-### `npm run build`
+* Browse upcoming events
+* View complete event details
+* Register online
+* Explore event galleries
+* Receive updates about campus activities
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Administrators can manage events, monitor registrations, download participant data, and analyze registrations through a secure dashboard.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# ✨ Features
 
-### `npm run eject`
+### 👨‍🎓 Student Module
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Browse upcoming events
+* View detailed event information
+* Online event registration
+* Event gallery
+* Responsive UI
+* Live announcement bar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 👨‍💼 Admin Module
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Secure Admin Login
+* Add New Events
+* Edit Existing Events
+* Delete Events
+* View Registrations
+* Search Participants
+* Filter Registrations by Event
+* Download Registration Data as Excel
+* Registration Analytics Dashboard
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 🛠 Tech Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Frontend
 
-### Code Splitting
+* React.js
+* Tailwind CSS
+* React Router
+* Axios
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Backend
 
-### Analyzing the Bundle Size
+* Node.js
+* Express.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Database
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* MongoDB Atlas
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Vercel (Frontend)
+* Render (Backend)
+* MongoDB Atlas (Database)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 📸 Project Screenshots
 
+### Home Page
 
+(Add Screenshot Here)
 
-<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/890a8af6-cd6b-4989-a4fd-f850aabafc63" />
+---
+
+### Featured Events
+
+(Add Screenshot Here)
+
+---
+
+### Event Details
+
+(Add Screenshot Here)
+
+---
+
+### Event Registration
+
+(Add Screenshot Here)
+
+---
+
+### Admin Dashboard
+
+(Add Screenshot Here)
+
+---
+
+### Registration Management
+
+(Add Screenshot Here)
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Balakagitalapalli/aditya-events-portal.git
+```
+
+Navigate to the project
+
+```bash
+cd aditya-events-portal
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the application
+
+```bash
+npm start
+```
+
+---
+
+# 📂 Project Structure
+
+```
+Frontend
+│
+├── Components
+├── Pages
+├── Assets
+├── Services
+└── App.js
+
+Backend
+│
+├── Models
+├── Routes
+├── Controllers
+├── Config
+└── Server.js
+```
+
+---
+
+# 🚀 Future Enhancements
+
+* QR Code Based Entry System
+* Email Confirmation
+* Payment Gateway Integration
+* Event Certificates
+* Student Login
+* Event Notifications
+* Attendance Tracking
+
+---
+
+# 👨‍💻 Developer
+
+**Kagitalapalli Bala Naga Satya Kumar**
+
+B.Tech – Information Technology
+
+Aditya University
+
+GitHub:
+https://github.com/Balakagitalapalli
+
+LinkedIn:
+https://www.linkedin.com/in/bala-kagitalapalli-205172291/
+
+---
+
+⭐ If you like this project, consider giving it a Star.
