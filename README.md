@@ -83,37 +83,54 @@ Administrators can manage events, monitor registrations, download participant da
 
 ### Home Page
 
-(Add Screenshot Here)
+
+
 
 ---
 
 ### Featured Events
 
-(Add Screenshot Here)
+
+
+![Uploading image.png…]()
 
 ---
 
 ### Event Details
 
-(Add Screenshot Here)
+
+
+
+
 
 ---
 
 ### Event Registration
 
-(Add Screenshot Here)
+
+
 
 ---
 
 ### Admin Dashboard
 
-(Add Screenshot Here)
+
+
+
+
 
 ---
 
 ### Registration Management
 
-(Add Screenshot Here)
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/e7e64ff4-7641-4960-81b1-c04dbe9b2595" />
+
+### Event Management
+
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ---
 
