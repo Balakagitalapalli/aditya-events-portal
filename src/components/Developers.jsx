@@ -6,7 +6,7 @@ const Developers = () => {
     {
       name: "Bala",
       role: "Lead Developer",
-      image: "/images/bala.jpeg",
+      image: "/images/bala.png",
       github: "https://github.com/",
       linkedin: "https://linkedin.com/",
       bio: "Passionate Full Stack MERN Developer focused on building scalable and modern web applications with excellent user experiences.",
