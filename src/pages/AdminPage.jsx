@@ -100,7 +100,7 @@ Admin Dashboard </h1>
             to="/"
             className="text-white font-medium hover:text-white transition"
           >
-            ← Back to Events
+            ← Back To Home
           </Link>
         </div>
 
