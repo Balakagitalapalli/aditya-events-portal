@@ -94,16 +94,6 @@ const deleteRegistration = async (id) => {
 return ( <div className="min-h-screen p-10 pt-24"> <h1 className="text-4xl font-bold mb-6">
 Admin Dashboard </h1>
 
-  {/* Back Button */}
-        <div className="max-w-6xl mx-auto px-6 pt-2">
-          <Link
-            to="/"
-            className="text-white font-medium hover:text-white transition"
-          >
-            ← Back To Home
-          </Link>
-        </div>
-
   <Link
   to="/admin-events"
   className="bg-blue-600 text-white px-6 py-3 rounded-lg inline-block ml-4"
