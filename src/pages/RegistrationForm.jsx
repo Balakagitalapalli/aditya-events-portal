@@ -64,7 +64,7 @@ setFormData({
   };
 
   return (
-    <div className="max-w-2xl mx-auto mt-10 p-8 bg-white/15 backdrop-blur-xl border border-white/20 shadow-2xl rounded-3xl">
+    <div className="max-w-2xl mx-auto mt-36 p-8 bg-white/15 backdrop-blur-xl border border-white/20 shadow-2xl rounded-3xl">
       <h1 className="text-4xl font-bold text-orange-500 text-center mb-2">
         Event Registration
       </h1>
