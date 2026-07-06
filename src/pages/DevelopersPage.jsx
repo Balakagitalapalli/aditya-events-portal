@@ -4,8 +4,7 @@ import { Link } from "react-router-dom";
 const DevelopersPage = () => {
   const team = [
     {
-      name: "Bala Kagitalapalli",
-      role: "Full Stack Developer",
+      name: "Bala",
       image: "/images/bala.jpg",
       github: "https://github.com/Balakagitalapalli",
       linkedin: "https://www.linkedin.com/in/bala-kagitalapalli-205172291/",
@@ -72,8 +71,8 @@ const DevelopersPage = () => {
                   src={member.image}
                   alt={member.name}
                   className="
-                    w-45
-                    h-55
+                    w-43
+                    h-53
                     object-cover
                     rounded-[50px]
                     border-4
