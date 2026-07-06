@@ -80,8 +80,8 @@ const Developers = () => {
                   src={member.image}
                   alt={member.name}
                   className="
-                    w-40
-                    h-43
+                    w-43
+                    h-53
                     rounded-full
                     object-cover
                     border-4
