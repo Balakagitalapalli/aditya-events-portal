@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Developers = () => {
   const team = [
     {
-      name: "Bala",
+      name: "Bala Kagitalapalli",
       role: "Lead Developer",
       image: "/images/bala.jpg",
       github: "https://github.com/",
