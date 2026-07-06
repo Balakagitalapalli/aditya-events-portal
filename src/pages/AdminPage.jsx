@@ -91,23 +91,35 @@ const deleteRegistration = async (id) => {
 };
 
 
-return ( <div className="min-h-screen p-10 pt-24"> <h1 className="text-4xl font-bold mb-6">
-Admin Dashboard </h1>
+return ( <div className="min-h-screen p-10 pt-24">
+<h1 className="text-4xl font-bold mb-4">
+  Admin Dashboard
+</h1>
+
+<div className="flex flex-wrap gap-4 mb-6">
 
   <Link
-  to="/admin-events"
-  className="bg-blue-600 text-white px-6 py-3 rounded-lg inline-block ml-4"
->
-  📋 Manage Events
-</Link> 
+    to="/"
+    className="inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-600 hover:to-orange-700 text-white font-semibold px-5 py-2.5 rounded-lg shadow-md hover:shadow-lg transition-all duration-300"
+  >
+    🏠 Back To Home
+  </Link>
 
   <Link
-  to="/add-event"
-  className="bg-green-600 text-white px-6 py-3 rounded-lg inline-block mb-6"
->
-  ➕ Add New Event
-</Link>
+    to="/admin-events"
+    className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg transition"
+  >
+    📋 Manage Events
+  </Link>
 
+  <Link
+    to="/add-event"
+    className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg transition"
+  >
+    ➕ Add New Event
+  </Link>
+
+</div>
   {/* Total Registrations */}
   <div className="bg-purple-600 text-white p-6 rounded-xl shadow-lg mb-8 w-fit">
     <h2 className="text-xl font-semibold">

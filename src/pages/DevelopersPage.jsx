@@ -72,8 +72,8 @@ const DevelopersPage = () => {
                   src={member.image}
                   alt={member.name}
                   className="
-                    w-40
-                    h-50
+                    w-45
+                    h-55
                     object-cover
                     rounded-[50px]
                     border-4
