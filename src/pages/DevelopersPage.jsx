@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const DevelopersPage = () => {
   const team = [
     {
-      name: "Bala",
-      
+      name: "Bala Kagitalapalli",
+      role: "Full Stack Developer",
       image: "/images/bala.jpg",
       github: "https://github.com/Balakagitalapalli",
       linkedin: "https://www.linkedin.com/in/bala-kagitalapalli-205172291/",
