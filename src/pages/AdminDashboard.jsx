@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const AdminDashboard = () => {
   const [stats, setStats] = useState({
@@ -20,15 +21,6 @@ const AdminDashboard = () => {
 
       <div className="grid md:grid-cols-3 gap-6">
 
-        {/* Back Button */}
-        <div className="max-w-6xl mx-auto px-6 pt-2">
-          <Link
-            to="/"
-            className="text-white font-medium hover:text-white transition"
-          >
-            ← Back To Home
-          </Link>
-        </div>
         
         <div className="bg-purple-600 text-white p-8 rounded-2xl shadow-lg">
           <h2 className="text-xl font-semibold">
